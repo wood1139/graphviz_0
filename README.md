@@ -1,7 +1,7 @@
 # graphviz_0
 用于把几个.dot流程图转成PDF
 
-![Alt text](https://g.gravizo.com/source/custom_mark_g1?https://github.com/wood1139/graphviz_0/blob/master/README.md)
+![Alt text](https://g.gravizo.com/source/custom_mark_g1?https://raw.githubusercontent.com/wood1139/graphviz_0/master/README.md)
 <details> 
 <summary></summary>
 custom_mark_g1
@@ -30,7 +30,7 @@ custom_mark_g1
 </details>
 
 
-![Alt text](https://g.gravizo.com/source/custom_mark_g2?https://github.com/wood1139/graphviz_0/blob/master/README.md)
+![Alt text](https://g.gravizo.com/source/custom_mark_g2?https://raw.githubusercontent.com/wood1139/graphviz_0/master/README.md)
 <details> 
 <summary></summary>
 custom_mark_g2
@@ -49,7 +49,7 @@ custom_mark_g2
 </details>
 
 
-![Alt text](https://g.gravizo.com/source/custom_mark_g3?https://github.com/wood1139/graphviz_0/blob/master/README.md)
+![Alt text](https://g.gravizo.com/source/custom_mark_g3?https://raw.githubusercontent.com/wood1139/graphviz_0/master/README.md)
 <details> 
 <summary></summary>
 custom_mark_g3
@@ -105,7 +105,7 @@ custom_mark_g3
 </details>
 
 
-![Alt text](https://g.gravizo.com/source/custom_mark_g4?https://github.com/wood1139/graphviz_0/blob/master/README.md)
+![Alt text](https://g.gravizo.com/source/custom_mark_g4?https://raw.githubusercontent.com/wood1139/graphviz_0/master/README.md)
 <details> 
 <summary></summary>
 custom_mark_g4
