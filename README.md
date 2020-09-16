@@ -23,7 +23,7 @@ custom_mark_g1
 			d22->"判断输出3" [color=green];
 		}
 
-		comment [label="每一次测距后，都结合最近的20次测距结果，进行一次判断输出" shape=plaintext]
+		comment [label="每一次测距后，都结合最近的20次测距结果，进行一次判断输出" shape=plaintext fontname="FangSong"]
 		comment->d12 [arrowsize=0 penwidth=0]
 	}
 custom_mark_g1
